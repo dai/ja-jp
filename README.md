@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center">
   <a href="https://cara.lekoarts.de">
     <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
@@ -79,6 +78,3 @@ Looking for more guidance? Full documentation for Gatsby lives [on Gatsby's webs
 - **For most developers, I recommend starting with the [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
 
 - **To dive straight into code samples, head [to Gatsby's documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Reference Guides_ and _Gatsby API_ sections in the sidebar.
-=======
-"# gatsby-starter-portfolio-cara" 
->>>>>>> f31a586e99dd1360cbaea0db00da8c8d442d4446
